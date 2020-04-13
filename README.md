@@ -6,11 +6,13 @@
 ***
 ### 简介 ###
 1. 文件列表
- 1. RobotPlue.py
- 2. Main.py
+  1. RobotPlue.py
+  2. Main.py
 2. 功能
- 1. 发送文字信息
- 2. 发送链接信息
+  1. 发送文字信息
+  2. 发送链接信息
+
 *不断更新,更多功能敬请期待*
+
 **Copytight © 李行之 2020,All Rights Reserved,版权所有**
 
