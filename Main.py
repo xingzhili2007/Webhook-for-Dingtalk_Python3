@@ -19,8 +19,9 @@ for x in range(1):
     sent.delay(False,3)
     
     #发送模块
-    #???.linkwebhook("*题目",“*文字”,*(可能需要加签)webhook地址,“图片地址”,“*链接文件地址”)
+    
     #加签:???.addticket(Webhook地址,加签验证密钥)为加签验证发函数)
+    #???.txtwebhook(“*信息内容”,”*(可能需要加签)webhook地址“,@某人的手机号1,@某人的手机号2,@某人的手机号3,是否@所有人,(关键词验证法的关键词)):
     sent.txtwebhook("TestMsg",sent.addticket(Robota,RobotaSEC),"135XXXX1732","133XXXX3114","137XXXX4314",False,"TestKeyword")
     
     #???.linkwebhook("*题目",“*文字”,*(可能需要加签)webhook地址,“图片地址”,“*链接文件地址”."关键词")
