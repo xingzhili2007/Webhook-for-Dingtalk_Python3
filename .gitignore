@@ -33,5 +33,5 @@
 
 #other
 *.pyc
-settings.json
-tasks.json
+.vscode/settings.json
+.vscode/tasks.json
